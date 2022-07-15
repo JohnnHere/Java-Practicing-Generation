@@ -1,6 +1,6 @@
 package Ex140722;
 
-public class Animal implements IAnimal {
+public class Animal {
 	
 	public void somAnimal() {
 		
